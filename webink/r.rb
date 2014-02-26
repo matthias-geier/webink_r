@@ -1,7 +1,7 @@
 ##
 # SQL Relation builder lib
 #
-# this lib allows for chainably SQL-string growth with a simple
+# this lib allows for chainable SQL-string growth with a simple
 # standard ruby interface.
 #
 # Example usage:
